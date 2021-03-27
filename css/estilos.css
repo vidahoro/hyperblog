@@ -16,7 +16,7 @@ body{
 .container{
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: right;
     border: 0.1rem solid rgb(124, 101, 101);
     margin: 0  auto;
     
