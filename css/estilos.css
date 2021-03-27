@@ -1,3 +1,4 @@
+
 *{
     box-sizing: border-box;
     padding: 0;
@@ -21,7 +22,13 @@ body{
     
     
 }
-
+.container__cabecera{
+    background-color: red;
+    color: white;
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 0.5rem; 
+}
 .container__post{
     font-size: 2rem;
     padding: 1rem;
