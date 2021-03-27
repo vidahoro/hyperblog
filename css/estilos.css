@@ -23,8 +23,8 @@ body{
     
 }
 .container__cabecera{
-    background-color: red;
-    color: black;
+    background-color: lime;
+    color: purple;
     font-size: 1.6rem;
     text-align: center;
     padding: 0.5rem; 
