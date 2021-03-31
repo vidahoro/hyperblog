@@ -35,3 +35,12 @@ body{
 
 
 }
+.footer__container{
+    background-color: chocolate;
+    margin: 0 auto;
+    color: white;
+    font-size: 1.6rem;
+    padding: 4rem;
+    text-align: left;
+    border: 0.3rem solid red;
+}
