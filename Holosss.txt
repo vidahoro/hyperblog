@@ -2,3 +2,4 @@ Holosss
 
 let's kick out them from here :3
 UwU
+cómo seria para el primer commit en git
