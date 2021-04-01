@@ -9,9 +9,11 @@ html {
 }
 body{
 
-    color: rgb(226, 43, 92);
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    height: 100vh;
+    flex-flow: column;
+    font-size: 1.6rem;
+
 }
 .container{
     width: 70%;
@@ -36,11 +38,9 @@ body{
 
 }
 .footer__container{
-    background-color: chocolate;
-    margin: 0 auto;
-    color: white;
-    font-size: 1.6rem;
+    outline: 0.1rem solid salmon;  /* es un borde que se dibuja por fuera del elemento pero no ocupa espacio */
+    height: 4rem;
     padding: 4rem;
-    text-align: left;
-    border: 0.3rem solid red;
+    margin-top: auto;
+    background-color: yellow;
 }
