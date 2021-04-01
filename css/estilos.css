@@ -8,10 +8,19 @@ html {
     font-size: 62.5%;
 }
 body{
+<<<<<<< HEAD
     background-color: black;
     color: rgb(226, 43, 92);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+=======
+
+    display: flex;
+    height: 100vh;
+    flex-flow: column;
+    font-size: 1.6rem;
+
+>>>>>>> footer
 }
 .container{
     width: 70%;
@@ -47,6 +56,22 @@ body{
 .container__post{
     font-size: 2rem;
     padding: 1rem;
+}
+.footer__container{
+    outline: 0.1rem solid salmon;  /* es un borde que se dibuja por fuera del elemento pero no ocupa espacio */
+    padding: 1rem;
+    margin-top: auto;
+    background-color: yellow;
+    display: flex;
+    justify-content: flex-start;
+ }
 
+.footer__container-images img{
+
+    height: 3rem;
+    width: 3rem;
+    margin: auto 0.5rem;
+    
+    
 
 }
