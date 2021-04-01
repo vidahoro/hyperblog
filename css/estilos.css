@@ -34,13 +34,22 @@ body{
 .container__post{
     font-size: 2rem;
     padding: 1rem;
-
-
 }
 .footer__container{
     outline: 0.1rem solid salmon;  /* es un borde que se dibuja por fuera del elemento pero no ocupa espacio */
-    height: 4rem;
-    padding: 4rem;
+    padding: 1rem;
     margin-top: auto;
     background-color: yellow;
+    display: flex;
+    justify-content: flex-start;
+ }
+
+.footer__container-images img{
+
+    height: 3rem;
+    width: 3rem;
+    margin: auto 0.5rem;
+    
+    
+
 }
