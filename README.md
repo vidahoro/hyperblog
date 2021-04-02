@@ -8,3 +8,4 @@ Aqui vas a encontrar todas las pràcticas, ejercicios comentarios realizados en 
 Dejame saber tus comentarios.
 
 [![Joke Image](Here "Joke Image")](https://freddyvega.com/content/images/size/w1000/2021/03/strange-world-adults.jpg "Joke Image")
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
