@@ -7,5 +7,5 @@ Uno de los cursos màs completos que he tomado y en los que màs me he divertido
 Aqui vas a encontrar todas las pràcticas, ejercicios comentarios realizados en el transcurso del curso.
 Dejame saber tus comentarios.
 
-[![Joke Image](Here "Joke Image")](https://freddyvega.com/content/images/size/w1000/2021/03/strange-world-adults.jpg "Joke Image")
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+
+![Aquí la descripción de la imagen por si no carga](https://freddyvega.com/content/images/size/w1000/2021/03/strange-world-adults.jpg)
