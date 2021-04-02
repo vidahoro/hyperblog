@@ -16,7 +16,7 @@ body{
 .container{
     width: 70%;
     padding: 1em;
-    text-align: right;
+    text-align: justify;
     border: 0.1rem solid rgb(124, 101, 101);
     margin: 0  auto;
     
@@ -47,6 +47,14 @@ body{
 .container__post{
     font-size: 2rem;
     padding: 1rem;
+}
+.container__post-pigimg{
+    display: flex;
+    justify-content: center;
+}
+.container__post-pigimg img{
+    height: 20rem;
+    width: 20rem;
 }
 .footer__container{
     outline: 0.1rem solid salmon;  /* es un borde que se dibuja por fuera del elemento pero no ocupa espacio */
